@@ -9,6 +9,6 @@ Last Updated:   2022-01-29
 ---
 
 
-[home](https://hakobtp.github.io/home/) 
+[Home](https://hakobtp.github.io/home/) 
 | [<< PostgreSQl Tutorials](https://hakobtp.github.io/home/postgresql/tutorials.html)
 
